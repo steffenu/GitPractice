@@ -1,5 +1,9 @@
 # test
 
+install https://cli.github.com/
+
+gh auth login
+
 
 * mkdir project
 * cd project
