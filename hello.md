@@ -1,4 +1,4 @@
-# teste
+# test
 
 install https://cli.github.com/
 
